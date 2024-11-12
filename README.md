@@ -1,1 +1,11 @@
-# Recurrent_one-dimensional-_neuron_-networks_PRO
+# Recurrent one-dimensional _neuron networks PRO
+
+Одномерные и рекуррентные сверточные нейронные сети.
+
+ДЗ от УИИ, уровень про.
+
+Предсказание диагноза заболеваний ЖКТ по симптомам с небольшой базой.
+
+Загрузка в коде.
+
+Google Colab.
